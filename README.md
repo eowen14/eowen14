@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eowen14
 - 👀 I’m interested in herpetology, ecology and plant-animal interactions.
 - 🌱 I’m currently learning about the influence of vegetation and climate on reptiles and amphibians in the deserts of Central California.
-- 💞️ I’m looking to collaborate on my Honours Thesis.
 - 📫 How to reach me at eowen14@my.yorku.ca 
 
 <!---
